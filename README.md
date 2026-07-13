@@ -1,5 +1,5 @@
-its my portfolio website. 🤷‍♂️
+It's my portfolio website. 🤷‍♂️
 
 <https://crevex.tech>
 
-enjoy!
+Enjoy!
